@@ -6,5 +6,3 @@ def find_it(seq):
 
 
 
-
-find_it([0,1,0,1,0])
